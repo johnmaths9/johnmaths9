@@ -31,7 +31,6 @@
 ### 🧩 Libraries & Framework
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![NextJS](https://img.shields.io/badge/Nextjs-20232A?style=for-the-badge&logo=next.js&logoColor=61DAFB)
 ![Nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Expressjs](https://img.shields.io/badge/Express.JS-yellow?style=for-the-badge&logo=express&logoColor=black)
 ![Redux](https://img.shields.io/badge/Redux-lightblue?style=for-the-badge&logo=redux&logoColor=white)
