@@ -1,5 +1,5 @@
 ## Hi there 👋 
-#### I am Web developer
+#### I am Mobile developer
 
 
 <div style="padding-left:30px; padding-right:30px;">
